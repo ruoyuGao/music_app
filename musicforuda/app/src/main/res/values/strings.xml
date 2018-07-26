@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">miku音乐</string>
+    <string name="startmusic">let us goto music</string>
+    <string name="musiclist">music list</string>
+</resources>
